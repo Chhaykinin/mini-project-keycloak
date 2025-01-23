@@ -48,4 +48,4 @@ springdoc:
     path: /task-service/swagger-ui.html
     oauth:
       client-id: Mini-Project
-      client-secret: U0aDOMj9zY9CVrT52mEaI86MNUTIPvq4
+      client-secret: mqHJ7Bk2z6AFUFAWFbpznyITExKBLeQ5
