@@ -21,7 +21,7 @@ springdoc:
   swagger-ui:
     oauth:
       client-id: Mini-Project
-      client-secret: i5AeoeuctN6hKgyNScD6rjvYE58y6iw3
+      client-secret: T5MUyo17aBQgxj1n072BTweUr5YD2OCS
     path: /swagger-ui.html
     config-url: /v3/api-docs/swagger-config
     urls:

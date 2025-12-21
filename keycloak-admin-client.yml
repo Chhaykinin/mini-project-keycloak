@@ -10,7 +10,7 @@ keycloak:
   auth-server-url: http://localhost:8080
   realm: Mini-Project
   clientId: Mini-Project
-  clientSecret: i5AeoeuctN6hKgyNScD6rjvYE58y6iw3
+  clientSecret: T5MUyo17aBQgxj1n072BTweUr5YD2OCS
 
 springdoc:
   api-docs:
@@ -19,4 +19,4 @@ springdoc:
     path: /keycloak-admin-client/swagger-ui.html
     oauth:
       client-id: Mini-Project
-      client-secret: i5AeoeuctN6hKgyNScD6rjvYE58y6iw3
+      client-secret: T5MUyo17aBQgxj1n072BTweUr5YD2OCS
